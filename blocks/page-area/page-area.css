@@ -3,4 +3,9 @@
   width: 100%;
   box-sizing: border-box;
   background-color: #2a2c2f;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
