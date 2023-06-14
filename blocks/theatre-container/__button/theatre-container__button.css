@@ -1,0 +1,18 @@
+.theatre-container__button{
+  background-color: #D1A954;
+  border: none;
+  color: white;
+  padding: 20px 34px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 40px 2px;
+  cursor: pointer;
+  width: 130px;
+  height: 20px;
+}
+
+.theatre-container__button:hover {
+  opacity: 0.5;
+}

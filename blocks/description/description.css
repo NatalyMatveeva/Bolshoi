@@ -1,0 +1,11 @@
+.description{
+background-image: url('../../images/Rectangle3.png');
+background-size: cover;
+background-repeat: no-repeat;
+box-sizing: border-box;
+position: relative;
+max-width: 1920px;
+height: 800px;
+
+}
+

@@ -1,0 +1,14 @@
+.poster-container__links {
+  display: flex;
+  justify-content: space-between;
+  line-height: 22px;
+  font-size: 20px;
+  font-weight: normal;
+  color: #FFFFFF;
+  transition: opacity 1s linear;
+  margin-top: 40px;
+}
+
+.poster-container__links:hover {
+  opacity: 0.5;
+}

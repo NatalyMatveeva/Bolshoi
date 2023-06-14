@@ -1,0 +1,12 @@
+.sidebar__column-text{
+  writing-mode: vertical-lr;
+   transform: scale(-1, -1);
+   padding-top: 100px;
+   color: #C4C4C4;
+   font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}

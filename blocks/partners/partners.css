@@ -1,0 +1,4 @@
+.partners{
+  width: calc(100% - 240px * 2);
+  margin: 0 auto;
+}

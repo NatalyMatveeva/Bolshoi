@@ -1,0 +1,12 @@
+.header__title{
+  text-decoration: none;
+  color: white;
+  font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+margin-right: 18px;
+/* identical to box height */
+
+letter-spacing: 0.1em;
+}

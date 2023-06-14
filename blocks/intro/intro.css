@@ -1,0 +1,7 @@
+.intro{
+  width: calc(100% - 220px * 2);
+  margin: 0 auto;
+  padding-top: 92px;
+  color: white;
+  box-sizing: border-box;
+}

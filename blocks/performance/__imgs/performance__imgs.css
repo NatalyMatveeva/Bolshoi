@@ -1,0 +1,4 @@
+.performance__imgs {
+  display: flex;
+  justify-content: space-between;
+}

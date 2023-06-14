@@ -1,0 +1,67 @@
+@import url(../vendor/normalize.css);
+
+@import url(../blocks/page-area/page-area.css);
+@import url(../blocks/page-area/page/page.css);
+
+@import url(../blocks/description/description.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__number/header__number.css);
+
+@import url(../blocks/sidebar/sidebar.css);
+@import url(../blocks/sidebar/__column-text/sidebar__column-text.css);
+@import url(../blocks/sidebar/__column-link/sidebar__column-link.css);
+@import url(../blocks/sidebar/__social-icon/sidebar__social-icon.css);
+
+@import url(../blocks/theatre-container/theatre-container.css);
+@import url(../blocks/theatre-container/__title/theatre-container__title.css);
+@import url(../blocks/theatre-container/__paragraph/theatre-container__paragraph.css);
+@import url(../blocks/theatre-container/__button/theatre-container__button.css);
+
+
+@import url(../blocks/poster-container/poster-container.css);
+@import url(../blocks/poster-container/__links/poster-container__links.css);
+@import url(../blocks/poster-container/__link-next/poster-container__link-next.css);
+@import url(../blocks/poster-container/__img/poster-container__img.css);
+@import url(../blocks/poster-container/__overlay/poster-container__overlay.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__color-gold/intro__color-gold.css);
+@import url(../blocks/intro/__information-column/intro__information-column.css);
+@import url(../blocks/intro/__block/intro__block.css);
+@import url(../blocks/intro/information-subtitle/intro__information-subtitle.css);
+@import url(../blocks/intro/__paragraph/intro__paragraph.css);
+@import url(../blocks/intro/__figure-column/intro__figure-column.css);
+@import url(../blocks/intro/__figure-subtitle/intro__figure-subtitle.css);
+@import url(../blocks/intro/__conteiner-img/intro__conteiner-img.css);
+@import url(../blocks/intro/__span/intro__span.css);
+@import url(../blocks/intro/__conteiner-subtitle/intro__conteiner-subtitle.css);
+@import url(../blocks/intro/__img/intro__img.css);
+
+
+@import url(../blocks/performance/performance.css);
+@import url(../blocks/performance/__title/performance__title.css);
+@import url(../blocks/performance/__span/performance__span.css);
+@import url(../blocks/performance/__imgs/performance__imgs.css);
+@import url(../blocks/performance/__img/performance__img.css);
+
+@import url(../blocks/best-theater/best-theater.css);
+
+
+@import url(../blocks/best-theater/__img/best-theater__img.css);
+@import url(../blocks/best-theater/__text/best-theater__text.css);
+@import url(../blocks/best-theater/__year/best-theater__year.css);
+
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__grid/partners__grid.css);
+@import url(../blocks/partners/__logo/partners__logo.css);
+
+@import url(../blocks/footer/footer.css);
+
+
+
+

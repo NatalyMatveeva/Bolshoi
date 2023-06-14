@@ -1,0 +1,9 @@
+.header__number{
+  font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+margin-right: 18px;
+border-bottom: 2px solid #D1A954;
+padding-bottom: 3px;
+}

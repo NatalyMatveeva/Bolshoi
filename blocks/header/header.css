@@ -1,0 +1,10 @@
+.header{
+display: flex;
+color: white;
+justify-content: space-between;
+padding-left: 150px;
+padding-right: 150px;
+padding-top: 30px;
+align-items: baseline;
+position: relative;
+}

@@ -1,0 +1,8 @@
+.poster-container__overlay{
+  background:rgba(209, 169, 84, 0.65);
+  width: 350px;
+  height: 490px;
+  position: relative;
+  top: 20px;
+  right: -20px;
+}

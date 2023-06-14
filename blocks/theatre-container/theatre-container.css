@@ -1,0 +1,9 @@
+.theatre-container{
+  position: absolute;
+  top: 300px;
+  left: 250px;
+  width: 440px;
+  height: 296px;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,7 @@
+.poster-container{
+position: absolute;
+right: 120px;
+top: 180px;
+z-index: 1;
+}
+

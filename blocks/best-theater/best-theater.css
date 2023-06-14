@@ -1,0 +1,19 @@
+.best-theater{
+  width: 550px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 92px;
+  color: #ffffff;
+  box-sizing: border-box;
+  background-size: cover;
+  background-image: url(../../images/Rectangle28.png);
+  display: grid;
+
+grid-template-columns: 150px auto;
+grid-template-rows:  30px 70px auto;
+grid-template-areas:
+"year img"
+"year text"
+"year text";
+ }

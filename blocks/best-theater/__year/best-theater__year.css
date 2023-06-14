@@ -1,0 +1,11 @@
+.best-theater__year{
+  grid-area: year;
+  color: #D1A954;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding-left: 26px;
+}

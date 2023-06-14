@@ -1,0 +1,7 @@
+.sidebar__column-link{
+  margin-top: 40px;
+  }
+
+.sidebar__column-link:last-child{
+padding-bottom: 100px;
+}
